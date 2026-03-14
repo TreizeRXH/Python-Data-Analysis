@@ -1,0 +1,11 @@
+date,product,category,units_sold,price_per_unit
+2024-01-05,Laptop,Electronics,3,999.99
+2024-01-07,Headphones,Electronics,12,79.99
+2024-01-10,Desk Chair,Furniture,5,249.99
+2024-01-12,Notebook,Stationery,45,4.99
+2024-01-15,Monitor,Electronics,7,349.99
+2024-01-18,Pen Set,Stationery,60,9.99
+2024-01-20,Standing Desk,Furniture,2,599.99
+2024-01-22,Keyboard,Electronics,15,129.99
+2024-01-25,Bookshelf,Furniture,4,189.99
+2024-01-28,Sticky Notes,Stationery,80,3.99
