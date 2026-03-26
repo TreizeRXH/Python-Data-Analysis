@@ -1,4 +1,4 @@
-#  Functions practice Exercise 4
+#  Functions practice Exercise 4 - HOTEL BILL
 
 def hotel_bill(guest_name, nights, room_rate):
 	subtotal = (nights) * (room_rate)
@@ -16,7 +16,7 @@ def hotel_bill(guest_name, nights, room_rate):
 	print(f'Tax (12%): ${tax:.2f}')
 	print(f'Total: ${total:.2f}')
 	print("=" * 32)
-	
-hotel_bill('Rudy', 3, 150.00)
-hotel_bill('Jack', 2, 125.00)
+
+hotel_bill('Rudy', 3, 150.00),
+hotel_bill('Jack', 2, 125.00),
 hotel_bill('Jill', 5, 135.00)
